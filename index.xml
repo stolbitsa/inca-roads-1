@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>stolbitsa</owner>
+  <repo>inca-roads-1</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="stolbitsa" repo="sedaya-noch-intro"/>
+  <readme>
+    <ru>27e73dd0705c639cb9b87bfab84bb4c9b5b0ecbaa83f6e84335fa9834e45b7f1</ru>
+    <en>2a7ca60959b31f3065a175f6e3ae78b6156a04194b1c23a2cf97e33b9c69347c</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>minor</scale>
+    <bpm>120</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="4-inca-1.mp4" size="1958171" type="video/mp4" volume="0.688">85b9e6a61ea07e73c807f58ffc96ea3da88b1a8b6580f61820cc9ffab3ab7f02</video>
+    <notes>
+      <note number="1" values="48" ticks="192" durationTicks="139" ppq="96" velocity="0.411"/>
+      <note number="2" values="58" ticks="336" durationTicks="45" ppq="96" velocity="0.439"/>
+      <note number="3" values="38" ticks="386" durationTicks="44" ppq="96" velocity="0.551"/>
+      <note number="4" values="18" ticks="433" durationTicks="116" ppq="96" velocity="0.441"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>minor</scale>
+    <bpm>120</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="4-inca-1.mp4" size="1958171" type="video/mp4" volume="0.688">85b9e6a61ea07e73c807f58ffc96ea3da88b1a8b6580f61820cc9ffab3ab7f02</video>
+    <notes>
+      <note number="1" values="48" ticks="192" durationTicks="139" ppq="96" velocity="0.411"/>
+      <note number="2" values="58" ticks="336" durationTicks="45" ppq="96" velocity="0.439"/>
+      <note number="3" values="38" ticks="386" durationTicks="44" ppq="96" velocity="0.551"/>
+      <note number="4" values="18" ticks="433" durationTicks="116" ppq="96" velocity="0.441"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>minor</scale>
+    <bpm>120</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="4-inca-1.mp4" size="1958171" type="video/mp4" volume="0.688">85b9e6a61ea07e73c807f58ffc96ea3da88b1a8b6580f61820cc9ffab3ab7f02</video>
+    <notes>
+      <note number="1" values="48" ticks="192" durationTicks="139" ppq="96" velocity="0.411"/>
+      <note number="2" values="58" ticks="336" durationTicks="45" ppq="96" velocity="0.439"/>
+      <note number="3" values="38" ticks="386" durationTicks="44" ppq="96" velocity="0.551"/>
+      <note number="4" values="18" ticks="433" durationTicks="116" ppq="96" velocity="0.441"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>minor</scale>
+    <bpm>120</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="4-inca-1.mp4" size="1958171" type="video/mp4" volume="0.688">85b9e6a61ea07e73c807f58ffc96ea3da88b1a8b6580f61820cc9ffab3ab7f02</video>
+    <notes>
+      <note number="1" values="48" ticks="192" durationTicks="139" ppq="96" velocity="0.411"/>
+      <note number="2" values="58" ticks="336" durationTicks="45" ppq="96" velocity="0.439"/>
+      <note number="3" values="38" ticks="386" durationTicks="44" ppq="96" velocity="0.551"/>
+      <note number="4" values="18" ticks="433" durationTicks="116" ppq="96" velocity="0.441"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>minor</scale>
+    <bpm>120</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="4-inca-1.mp4" size="1958171" type="video/mp4" volume="0.688">85b9e6a61ea07e73c807f58ffc96ea3da88b1a8b6580f61820cc9ffab3ab7f02</video>
+    <notes>
+      <note number="1" values="48" ticks="192" durationTicks="139" ppq="96" velocity="0.411"/>
+      <note number="2" values="58" ticks="336" durationTicks="45" ppq="96" velocity="0.439"/>
+      <note number="3" values="38" ticks="386" durationTicks="44" ppq="96" velocity="0.551"/>
+      <note number="4" values="18" ticks="433" durationTicks="116" ppq="96" velocity="0.441"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>minor</scale>
+    <bpm>120</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="4-inca-1.mp4" size="1958171" type="video/mp4" volume="0.688">85b9e6a61ea07e73c807f58ffc96ea3da88b1a8b6580f61820cc9ffab3ab7f02</video>
+    <notes>
+      <note number="1" values="48" ticks="192" durationTicks="139" ppq="96" velocity="0.411"/>
+      <note number="2" values="58" ticks="336" durationTicks="45" ppq="96" velocity="0.439"/>
+      <note number="3" values="38" ticks="386" durationTicks="44" ppq="96" velocity="0.551"/>
+      <note number="4" values="18" ticks="433" durationTicks="116" ppq="96" velocity="0.441"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>minor</scale>
+    <bpm>120</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="4-inca-1.mp4" size="1958171" type="video/mp4" volume="0.688">85b9e6a61ea07e73c807f58ffc96ea3da88b1a8b6580f61820cc9ffab3ab7f02</video>
+    <notes>
+      <note number="1" values="48" ticks="192" durationTicks="139" ppq="96" velocity="0.411"/>
+      <note number="2" values="58" ticks="336" durationTicks="45" ppq="96" velocity="0.439"/>
+      <note number="3" values="38" ticks="386" durationTicks="44" ppq="96" velocity="0.551"/>
+      <note number="4" values="18" ticks="433" durationTicks="116" ppq="96" velocity="0.441"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>minor</scale>
+    <bpm>120</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="4-inca-1.mp4" size="1958171" type="video/mp4" volume="0.688">85b9e6a61ea07e73c807f58ffc96ea3da88b1a8b6580f61820cc9ffab3ab7f02</video>
+    <notes>
+      <note number="1" values="48" ticks="192" durationTicks="139" ppq="96" velocity="0.411"/>
+      <note number="2" values="58" ticks="336" durationTicks="45" ppq="96" velocity="0.439"/>
+      <note number="3" values="38" ticks="386" durationTicks="44" ppq="96" velocity="0.551"/>
+      <note number="4" values="18" ticks="433" durationTicks="116" ppq="96" velocity="0.441"/>
+    </notes>
+  </exercise>
+  <exercise number="9">
+    <scale>minor</scale>
+    <bpm>120</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="4-inca-1.mp4" size="1958171" type="video/mp4" volume="0.688">85b9e6a61ea07e73c807f58ffc96ea3da88b1a8b6580f61820cc9ffab3ab7f02</video>
+    <notes>
+      <note number="1" values="48" ticks="192" durationTicks="139" ppq="96" velocity="0.411"/>
+      <note number="2" values="58" ticks="336" durationTicks="45" ppq="96" velocity="0.439"/>
+      <note number="3" values="38" ticks="386" durationTicks="44" ppq="96" velocity="0.551"/>
+      <note number="4" values="18" ticks="433" durationTicks="116" ppq="96" velocity="0.441"/>
+    </notes>
+  </exercise>
+  <exercise number="10">
+    <scale>minor</scale>
+    <bpm>120</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="4-inca-1.mp4" size="1958171" type="video/mp4" volume="0.688">85b9e6a61ea07e73c807f58ffc96ea3da88b1a8b6580f61820cc9ffab3ab7f02</video>
+    <notes>
+      <note number="1" values="48" ticks="192" durationTicks="139" ppq="96" velocity="0.411"/>
+      <note number="2" values="58" ticks="336" durationTicks="45" ppq="96" velocity="0.439"/>
+      <note number="3" values="38" ticks="386" durationTicks="44" ppq="96" velocity="0.551"/>
+      <note number="4" values="18" ticks="433" durationTicks="116" ppq="96" velocity="0.441"/>
+    </notes>
+  </exercise>
+</level>
