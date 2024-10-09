@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>inca-roads-1</repo>
-  <version>v1.0.7</version>
+  <version>v1.0.8</version>
   <next number="1" owner="stolbitsa" repo="sedaya-noch-intro"/>
   <readme>
-    <ru>27e73dd0705c639cb9b87bfab84bb4c9b5b0ecbaa83f6e84335fa9834e45b7f1</ru>
-    <en>2a7ca60959b31f3065a175f6e3ae78b6156a04194b1c23a2cf97e33b9c69347c</en>
+    <ru>cb3021174b78039f0627a538ff7eafa6672f3d2edcfabcc337220189f2418ba4</ru>
+    <en>e15fcfa4568aa3bcb979aecf6df0c247901e1113fcbb2be0790d27e7a94c114e</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
